@@ -1,0 +1,24 @@
+Guian n£mero 2 bitacora MADO-17
+¨que es un buscador?
+- Un buscador es un sisttema inform tico o pagina web que permite a los usuarios encoontrar informaci¢n en la web
+introduciendo palabras clave
+
+EN la guia mado 17 podemos ver que esta se subdivide en su primera secci¢n en manejo de repositorios de almacenamieto
+y buscadores de informaci¢n especializada en internet y su desarrollo en el aspecto academico. aqui veremos o nos centraremos en los buscadores aportando informaci¢n referente a estos.
+
+En primer lugar la guia nos presenta a google scholar o google academico el cual se especializa en articulos de revistas cient¡ficas, tesis, libros y otros recursos netamente academicos.
+En segundo lugar tenemos a Microsoft academic Proporciona acceso a literatura acad‚mica y m‚tricas de impacto. Ofrece visualizaciones y an lisis de redes de citaci¢n
+en tercer lugar tenemos a scienceDirect y SpringerLink
+este basicamente se trata de revistas y libros de editoriales l¡deres en ciencia y tecnolog¡a. Proporcionan acceso a publicaciones de alto impacto.
+En cuarto lugar tenemos a ResearchGate 
+Plataforma que conecta investigadores de diversas disciplinas. Permite descargar art¡culos, interactuar con autores y acceder a documentos compartidos directamente.
+BASE (Bielefeld Academic Search Engine) 
+Uno de los buscadores acad‚micos m s completos con acceso a recursos de bibliotecas y repositorios. Incluye documentos de acceso abierto.
+Repositorio UNAM
+Plataforma de acceso abierto que concentra trabajos acad‚micos, tesis, art¡culos y recursos de investigaci¢n de la Universidad Nacional Aut¢noma de M‚xico.
+
+tambien la guia nos habla de la ia y plantea la revolucionado la forma en que manejamos, analizamos y generamos contenido, facilitando tareas que antes eran arduas y demandaban mucho tiempo. En el  mbito general, la IA permite automatizar procesos, reali
+ChatGPT (OpenAI): Generaci¢n de texto para res£menes, explicaciones, propuestas, etc.
+Ideogram: Generaci¢n de im genes a partir de descripciones textuales.
+Google Docs con complementos de IA: Ayuda para la redacci¢n y edici¢n de documentos.
+Gamma: Dise¤o gr fico asistido por IA para crear presentaciones y gr ficos.
